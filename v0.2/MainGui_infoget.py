@@ -3,7 +3,7 @@
 '''
 @author: zhanghui
 @file: MainGui_infoget.py
-@time: 2018/9/21 20:40
+@time: 2018/9/24 22:40
 '''
 
 import tkinter as tk
